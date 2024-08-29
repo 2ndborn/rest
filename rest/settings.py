@@ -63,7 +63,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'restdemo.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'https://restdemo-a68cc29b2722.herokuapp.com/']
 
 # Application definition
 

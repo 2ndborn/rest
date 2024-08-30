@@ -66,6 +66,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
    os.environ.get('ALLOWED_HOST'),
    'localhost',
+   'restdemo-a68cc29b2722.herokuapp.com',
 ]
 
 # Application definition
